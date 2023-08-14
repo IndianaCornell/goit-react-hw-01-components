@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IndianaCornell/goit-react-hw-01-components/static/css/main.7cda0caf.css",
-    "main.js": "/IndianaCornell/goit-react-hw-01-components/static/js/main.97381e2f.js",
-    "index.html": "/IndianaCornell/goit-react-hw-01-components/index.html",
-    "main.7cda0caf.css.map": "/IndianaCornell/goit-react-hw-01-components/static/css/main.7cda0caf.css.map",
-    "main.97381e2f.js.map": "/IndianaCornell/goit-react-hw-01-components/static/js/main.97381e2f.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.7cda0caf.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.e16fe317.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.7cda0caf.css.map": "/goit-react-hw-01-components/static/css/main.7cda0caf.css.map",
+    "main.e16fe317.js.map": "/goit-react-hw-01-components/static/js/main.e16fe317.js.map"
   },
   "entrypoints": [
     "static/css/main.7cda0caf.css",
-    "static/js/main.97381e2f.js"
+    "static/js/main.e16fe317.js"
   ]
 }
