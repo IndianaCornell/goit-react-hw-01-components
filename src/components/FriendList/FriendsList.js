@@ -1,4 +1,4 @@
-import { ListItem, UserName, Status, FriendList } from './FriendsList.styled';
+import { ListItem, UserName, FriendList } from './FriendsList.styled';
 import { AiFillHeart } from 'react-icons/ai';
 
 export const FriendsList = ({ friends }) => {
