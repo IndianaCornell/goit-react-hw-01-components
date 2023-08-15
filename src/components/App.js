@@ -2,13 +2,13 @@ import { GlobalStyle } from './GlobalStyle';
 import { Layout } from './Layout';
 
 import { Profile } from './Profile/Profile';
-import user from '../user.json';
+import user from '../data/user.json';
 import { Statistics } from './Statistic/Statistics';
-import data from '../data.json';
+import data from '../data/data.json';
 import { FriendsList } from './FriendList/FriendsList';
-import friends from '../friends.json';
+import friends from '../data/friends.json';
 import { TransactionHistory } from './TransactionHistory/TransactionHistory';
-import transactions from '../transactions.json';
+import transactions from '../data/transactions.json';
 
 export const App = () => {
   return (
